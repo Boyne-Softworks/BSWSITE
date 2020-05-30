@@ -1,0 +1,16 @@
+/* This css needs more work */
+html {
+  overflow:   scroll;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
+#button {
+	padding: 10px 10px;
+	margin: 10px 10px
+	color: black;
+	outline-color: black;
+
+}
